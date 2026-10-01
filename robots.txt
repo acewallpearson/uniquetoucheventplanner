@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://acewallpearson.github.io/uniquetoucheventplanner/sitemap.xml

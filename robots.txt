@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://acewallpearson.github.io/uniquetoucheventplanner/sitemap.xml
+Sitemap: https://uniquetoucheventplanner.pages.dev/sitemap.xml
